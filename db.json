@@ -1,0 +1,24 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "text": "goto gym",
+        "isCompleted": false
+      },
+      {
+        "id": 2,
+        "text": "do laundry",
+        "isCompleted": true
+      },
+      {
+        "id": 3,
+        "text": "food shopping",
+        "isCompleted": false
+      },
+      {
+        "id":4,
+        "text": "do homework",
+        "isCompleted": true
+      }
+    ]
+  }
