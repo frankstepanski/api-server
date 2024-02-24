@@ -1,3 +1,3 @@
-## Todo Server
+## API Server
 
-Server for Todo App using json-server
+Server to host multiple APIS using json-server
